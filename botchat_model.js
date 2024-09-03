@@ -1,5 +1,5 @@
 const DATA_RESPONE = {
-  answer: "Người bệnh là người sử dụng dịch vụ khám bệnh, chữa bệnh.",
+  content: "Người bệnh là người sử dụng dịch vụ khám bệnh, chữa bệnh.",
   metadata: {
     "7e44e9ec-9f5e-4dfa-b3b8-fa3f83a4b723": {
       source: "Luật khám bệnh, chữa bệnh 2023",
